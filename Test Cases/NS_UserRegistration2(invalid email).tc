@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NS_UserRegistration2(invalid email)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab6d1b51-c133-45ae-9be7-2244421d868a</testCaseGuid>
+</TestCaseEntity>

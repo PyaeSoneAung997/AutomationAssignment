@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NS_UserRegistration3(NotMatchPW)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46feeb97-75f0-487c-a191-b9bc99a8bfb3</testCaseGuid>
+</TestCaseEntity>
